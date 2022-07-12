@@ -57,7 +57,8 @@ A single page Full stack social media application to create,like,view,edit,share
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture7.PNG)
 
 # Preview Photos:
-you can preview,rotate and maximize the size of photos.<br/>
+you can preview,rotate and maximize the size of photos.
+
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture8.PNG)
 
 
