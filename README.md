@@ -50,7 +50,7 @@ A single page Full stack social media application to create,like,view,edit,share
 # Form validation:
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture4.PNG)
 
-# User Authentication:
+# User Authentication and Authorization:
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture5.PNG)
 
 # Fully Responsive:
