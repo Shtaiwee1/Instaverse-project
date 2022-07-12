@@ -18,7 +18,7 @@ app.use(bodyParser.urlencoded({ limit: "32mb", extended: true }));
 app.use("/stories", storyRoutes);
 app.use("/user", userRoutes);
 
-const MONGO_URI = "mongodb+srv://instaverse:21551296mn@cluster0.bghsn.mongodb.net/?retryWrites=true&w=majority";
+const MONGO_URI = "YOUR MONGO URI HERE";
 
 const PORT = process.env.PORT || 5000;
 
