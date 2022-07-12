@@ -41,23 +41,23 @@ A single page Full stack social media application to create,like,view,edit,share
 # Registration Page:
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture2.PNG)
 
-# Login Page
+# Login Page:
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture6.PNG)
 
-# Home Page
+# Home Page:
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture3.PNG)
 
-# Form validation
+# Form validation:
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture4.PNG)
 
-# User Authentication
+# User Authentication:
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture5.PNG)
 
-# Fully Responsive
+# Fully Responsive:
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture7.PNG)
 
 # Preview Photos:
-you can preview,rotate and maximize the size of photos.
+you can preview,rotate and maximize the size of photos.<br/>
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture8.PNG)
 
 
