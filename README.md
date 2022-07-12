@@ -1,6 +1,5 @@
 # Instaverse-project
 
-# SlickTech-Project
 **Overview:**
 A single page Full stack social media application to create,like,view,edit,share and delete posts.
 
@@ -37,3 +36,4 @@ A single page Full stack social media application to create,like,view,edit,share
 
 **Screenshots:**
 # Login/Registration Page:
+![My Image](https://github.com/odaisheikh/SlickTech-Project/blob/master/ReadMeImages/profile.PNG)
