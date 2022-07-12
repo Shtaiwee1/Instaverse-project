@@ -35,21 +35,29 @@ A single page Full stack social media application to create,like,view,edit,share
 
 
 **Screenshots:**
-# Login/Registration Page:
+# Welcome page:
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture1.PNG)
 
+# Registration Page:
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture2.PNG)
 
-![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture3.PNG)
-
-![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture4.PNG)
-
-![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture5.PNG)
-
+# Login Page
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture6.PNG)
 
+# Home Page
+![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture3.PNG)
+
+# Form validation
+![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture4.PNG)
+
+# User Authentication
+![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture5.PNG)
+
+# Fully Responsive
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture7.PNG)
 
+# Preview Photos:
+you can preview,rotate and maximize the size of photos.
 ![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture8.PNG)
 
 
