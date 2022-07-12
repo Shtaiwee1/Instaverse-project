@@ -36,4 +36,20 @@ A single page Full stack social media application to create,like,view,edit,share
 
 **Screenshots:**
 # Login/Registration Page:
-![My Image](https://github.com/odaisheikh/SlickTech-Project/blob/master/ReadMeImages/profile.PNG)
+![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture1.PNG)
+
+![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture2.PNG)
+
+![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture3.PNG)
+
+![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture4.PNG)
+
+![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture5.PNG)
+
+![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture6.PNG)
+
+![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture7.PNG)
+
+![My Image](https://github.com/Shtaiwee1/Instaverse-project/blob/master/styles/images/Capture8.PNG)
+
+
