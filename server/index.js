@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
    res.send('Welcome to Instaverse API')
 })
 
-const CONNECTION_URL = 'mongodb+srv://instaverse:21551296mn@cluster0.bghsn.mongodb.net/?retryWrites=true&w=majority'
+const CONNECTION_URL = 'YOUR MONGO URI HERE'
 const PORT = process.env.PORT || 5000
 
 mongoose.connect(process.env.CONNECTION_URL)
